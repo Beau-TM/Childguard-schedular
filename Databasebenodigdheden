@@ -1,1 +1,3 @@
+- Leerkracht logt in op website, eerste keer dat die inlogt wordt er gevraagd of hij/zij halftijds/ deeltijds werkt.
+--> Na de eerste keer inloggen wordt dit niet meer gevraagd (het wordt onthouden in de database)
 
