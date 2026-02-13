@@ -1,3 +1,26 @@
 Hierin staat wat we gaan gebruiken, wat ideëen zijn
 
-Benodigdheden
+Benodigdheden voor taal:
+- python + django + SQLite + Javascript 
+
+- Python:
+voor de algoritmes, logica, libraries voor planning en scheduling, frameworks voor webontwikkeling.
+--> Django voor frameworks voor webontwikkeling 
+    handig omdat: - er al authentificatie in zit
+                  - de database wordt automatisch beheerd
+                  - admin interface beschikbaar is
+(Of eventueel HTML en CSS)
+- Javascript (frontend):
+voor de interactieve kalender, dynamische weergave per leerkracht een mooie interface
+
+- SQLite is automatisch ingebouwd bij Django 
+
+Doelen
+- Leerkracht logt in op website, eerste keer dat die inlogt wordt er gevraagd of hij/zij halftijds/ deeltijds werkt.
+--> Na de eerste keer inloggen wordt dit niet meer gevraagd (het wordt onthouden in de database)
+
+Extra's:
+-Ziekte uren terug invoegen in de agenda
+
+In Database 
+  
