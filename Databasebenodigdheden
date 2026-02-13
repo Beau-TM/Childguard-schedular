@@ -1,3 +1,12 @@
+- Voornaam en achternaam
+- Leeftijd 
+- Wachtwoorden (worden gehashed door Django)
+- Overzicht van alles voor admin (zonder paswoord/ persoonsgevoelige data)
+- LeerkrachtID
+- Email
+- Regime (1.0/ 0.8/ 0.5 /...)
+- Is actief/ Niet actief
 - Leerkracht logt in op website, eerste keer dat die inlogt wordt er gevraagd of hij/zij halftijds/ deeltijds werkt.
 --> Na de eerste keer inloggen wordt dit niet meer gevraagd (het wordt onthouden in de database)
 
+Als we willen produceren: GDPR- richtlijnen
