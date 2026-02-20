@@ -1,0 +1,82 @@
+Week 1: Setup + Database + Wireframes
+Week 2: Login + Werkregime + Admin basis
+Week 3: Kalender UI + koppeling
+Week 4: Algoritme ontwerp
+Week 5: Algoritme implementatie + koppeling
+Week 6: Extra’s (ziekte, mail, problemen)
+Week 7: Privacyverklaring + Admin dashboard
+Week 8: Testen + bugfixing
+Week 9: App/PWA (optioneel)
+Week 10: Finale afwerking + presentatie
+
+Week 1 – Analyse & Setup
+Doel: fundament leggen
+Django project opzetten
+Database schema uittekenen
+User model + werkregime toevoegen
+Wireframes maken voor kalender & admin
+Taken verdelen
+Opstellen logboek
+
+Week 2 – Login & User Flow
+Doel: basis van de applicatie werkt
+Login systeem
+Eerste login → werkregime opslaan
+Admin-panel basis
+Database migraties
+Logboek aanvullen
+
+Week 3 – Kalenderweergave
+Doel: visuele basis staat
+Kalender UI bouwen (Beau)
+Django views + endpoints koppelen
+Testdata tonen
+Logboek aanvullen
+
+Week 4 – Planningsalgoritme (deel 1)
+Doel: logica ontwerpen
+Regels bepalen (voltijds/halftijds/deeltijds)
+Eerlijke verdeling uitwerken
+Eerste versie algoritme implementeren
+Logboek aanvullen
+
+Week 5 – Planningsalgoritme (deel 2)
+Doel: algoritme koppelen aan kalender
+Automatische verdeling genereren
+Bewakingen opslaan in database
+Kalender toont toegewezen bewakingen
+Logboek aanvullen
+
+Week 6 – Extra functionaliteiten
+Doel: uitbreiden
+Ziekte-uren → terug invoegen
+Automatische mail
+Probleem melden
+Logboek aanvullen
+
+Week 7 – Privacyverklaring + Admin Dashboard
+Doel: afronden verplichtingen
+Privacyverklaring pagina
+Admin overzicht: minste/meeste uren
+Statistieken
+Logboek aanvullen
+
+Week 8 – Testing & Bugfixing
+Doel: stabiele versie
+Testen met dummy accounts
+Edge cases oplossen
+UI verbeteren
+Logboek aanvullen
+
+Week 9 – App-optie (indien tijd)
+Doel: optioneel
+PWA (Progressive Web App)
+Mobile layout optimaliseren
+Logboek aanvullen
+
+Week 10 – Finale afwerking
+Doel: klaar voor inlevering
+Documentatie
+Presentatie voorbereiden
+Code opschonen
+Logboek aanvullen
