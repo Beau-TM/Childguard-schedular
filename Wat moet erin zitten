@@ -1,4 +1,4 @@
-Wat moet erin zitten?
+Wat moet erin zitten
 - Leerkracht logt in op website, eerste keer dat die inlogt wordt er gevraagd of hij/zij Voltijds/ halftijds/ deeltijds werkt.
 --> Na de eerste keer inloggen wordt dit niet meer gevraagd (het wordt onthouden in de database)
 - Admin via Django 
