@@ -29,14 +29,14 @@ Doel: basis van de applicatie werkt
 Login systeem
 Eerste login → werkregime opslaan
 Admin-panel basis
-Database migraties
+Django views + endpoints koppelen
 Logboek aanvullen
 
 Week 4 – Kalenderweergave
 Doel: visuele basis staat
 Kalender UI bouwen (Beau)
-Django views + endpoints koppelen
 Testdata tonen
+Database migraties
 Logboek aanvullen
 
 Week 5 – Planningsalgoritme (deel 1)
